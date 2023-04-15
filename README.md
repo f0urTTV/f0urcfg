@@ -10,6 +10,7 @@ Feel free to download and add to it urself!
 
 # Installation
 
+## !!!Please download the latest version from the releases!!!
 
 Paste the autoexec.cfg into:
 C:\Program Files (x86)\Steam\userdata\URSTEAMIDHERE\730\local\cfg
